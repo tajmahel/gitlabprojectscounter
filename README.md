@@ -15,7 +15,7 @@ Ce projet permet de compter le nombre de projets d'un utilisateur GitLab. Il pro
 
 1. Clonez ce dépôt :
    ```
-   git clone [https://votre-repo-url/gitlabprojectscounter.git](https://gitlab.com/maelmemain1/gitlabprojectscounter.git)
+   git clone https://gitlab.com/maelmemain1/gitlabprojectscounter.git
    cd gitlabprojectscounter
    ```
 
